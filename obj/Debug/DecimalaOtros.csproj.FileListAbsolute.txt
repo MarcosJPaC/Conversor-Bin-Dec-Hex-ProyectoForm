@@ -1,0 +1,10 @@
+C:\Users\Computadora\source\repos\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.exe.config
+C:\Users\Computadora\source\repos\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.exe
+C:\Users\Computadora\source\repos\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.pdb
+C:\Users\Computadora\source\repos\CalculadoraProgramador\obj\Debug\DecimalaOtros.csprojAssemblyReference.cache
+C:\Users\Computadora\source\repos\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.Form1.resources
+C:\Users\Computadora\source\repos\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.Properties.Resources.resources
+C:\Users\Computadora\source\repos\CalculadoraProgramador\obj\Debug\DecimalaOtros.csproj.GenerateResource.cache
+C:\Users\Computadora\source\repos\CalculadoraProgramador\obj\Debug\DecimalaOtros.csproj.CoreCompileInputs.cache
+C:\Users\Computadora\source\repos\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.exe
+C:\Users\Computadora\source\repos\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.pdb
